@@ -20,7 +20,7 @@ import java.util.Set;
  *
  * {@link javax.ws.rs.core.Application}.
  */
-public abstract class Services extends Application {
+public abstract class BaseServices extends Application {
 
 
     /**
