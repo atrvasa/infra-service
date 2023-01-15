@@ -37,6 +37,11 @@
             <version>1.18.3</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.atrvasa</groupId>
+            <artifactId>infra</artifactId>
+            <version>1.0</version>
+        </dependency>
 
     </dependencies>
 
